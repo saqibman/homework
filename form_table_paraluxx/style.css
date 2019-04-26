@@ -1,0 +1,46 @@
+body{
+
+	background-image: url(bb.jpg);
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+	background-color: gray;
+	margin: 0px;
+	padding: 0px; 
+	background-attachment: fixed;
+	background-repeat: no-repeat; 
+}
+h1{
+	text-align: center;
+	font-family: 'Slabo 27px', serif;
+	font-size: 40px;
+	font-weight: bold;
+	text-decoration: underline;
+
+}
+
+.counter{
+	margin: 0px auto;
+	width:65%;
+	background-color: #00808E;
+	opacity: .9;
+	border: 1px solid #031917;
+
+}
+
+table{
+
+	font-family: 'Slabo 27px', serif;
+	margin: auto;
+	width: 50%;
+	margin-bottom: 40px; 
+	
+	background-size: cover;
+	 
+	font-size: 17px;
+	font-style: normal;
+	font-weight: bold;
+	color: solid black;
+	/*background-attachment: fixed;
+	background-repeat: no-repeat;*/
+}
