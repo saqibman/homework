@@ -1,0 +1,185 @@
+body{
+	background-color: #FFF5D7;
+	height: 100%;
+	width: 100%;
+}
+.main{
+	width: 80%;
+	height: 1000px;
+	margin: 0px auto;
+}
+.head h2{
+	font-family: 'Modak', cursive;
+	margin: 0px;
+	padding: 0px;
+	font-size: 45px;
+}
+h4{
+	font-family: 'Macondo Swash Caps', cursive;
+	margin: 0px;
+	padding: 0px;
+}
+.nav{
+	position: relative;
+	margin: 0px;
+}
+.nav li{
+	float: left;
+	text-decoration: none;
+	display: block;
+	padding: 10px;
+	text-align: center;
+	
+}
+.nav ul{
+	position: absolute;
+	left: 35%;
+}
+
+.nav li a{
+	display: block;
+	text-decoration: none;
+	color: #000;
+
+}
+.nav a:hover{
+	display: block;
+	background-color: gray;
+	font-size: 17px;
+	box-shadow: 2px;
+	border-radius: 3px; 
+}
+#imgline{
+	display: block;
+	background-repeat: repeat-x;
+	margin-top: 48px;
+	width: 100%;
+	height: 5px;
+	border-radius: 2px; 
+}
+.mainimg{
+	background-image: url("images/sanfrancisco.jpg");
+	margin-top: 6px; 
+	display: block;
+	height: 200px;
+	width: 100%;
+	border-radius: 5px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	box-shadow: 1px 1px 1px 1px #185672;
+}
+.onpic{
+	position: relative;
+	background-color: rgba(0,0,0,.5);
+	width: 100%;
+	height: 40px;
+	top: 160px;
+	border-bottom-right-radius: 2px;
+	border-bottom-left-radius: 2px;
+}
+h5{
+	color: white;
+	margin-top: 12px;
+	padding: 0px;
+	display: block;
+	display: inline-block;
+}
+.onpic button{
+	
+	float: right;
+	border-radius: 5px;
+	box-shadow: 1px;
+	background-color: #801113; 
+	color: white;
+	margin-top: 10px;
+}
+.sec{
+	margin-top: 20px;
+	width: 100%;
+	
+}
+.sec1{
+	width: 75%;
+	height: 450px;
+	float: left;
+
+}
+.sec1 img {
+	display: block;
+	display: inline-block;
+	width: 40px;
+}
+.sec1 p{
+	margin: 5px;
+	
+}
+.sec2{
+	color: white;
+	width: 25%;
+	height: 450px;
+	float: left;
+	border-radius: 8px;
+	background-color: #706B64;
+	position: relative;
+}
+
+.sec2 #f{
+	display: block;
+	margin: 0px auto;
+	margin-top: 10px;
+	height: 150px;
+}
+.arrow img{
+	position: absolute;
+	left: -12px;
+    top: 0;
+    top: 110px;
+}
+.sec2 p{
+	
+	margin-left: 4px;
+}
+.sec2 li{
+	float: left;
+	padding: 17px;
+	text-decoration: none;
+	width: 15px;
+	display: block;
+}
+.sec2 ul{
+	margin-left: 4px; 
+	padding-left: 0px;
+	text-decoration: none; 
+}
+
+#to{
+	position: absolute;
+	top: 844px;
+    left: 615px
+}
+
+#bline{
+	position: relative;
+	background-repeat: repeat-x;
+	margin-top: 2px;
+	width: 100%;
+	height: 5px;
+	border-radius: 2px;
+}
+.t{
+	width: 80%;
+	margin-top: 20px;
+}
+.t img{
+	padding: 2px;
+}
+.t table{
+	text-align: left;	
+}
+.t table .pad{
+	padding-left: 80px;
+}
+.t table .pad1{
+	padding-left: 30px;
+}
